@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name" translatable="false">lab1-GUI</string>
+    <string name="Name" translatable="true">Imię</string>
+    <string name="Surname" translatable="true">Nazwisko</string>
+    <string name="NumberOfGrades" translatable="true">Liczba ocen</string>
+    <string name="NumberOfGrades1_15" translatable="true">Liczba ocen(1–15)</string>
+    <string name="Grades" translatable="true">Oceny</string>
+    <string name="three">3</string>
+    <string name="two">2</string>
+    <string name="name">Nazwa</string>
+    <string name="four">4</string>
+    <string name="five">5</string>
+
+    <string-array name="subjects">
+    <item>Matematyka</item>
+    <item>Fizyka</item>
+    <item>Geografia</item>
+    <item>Biologia</item>
+    <item>Technika</item>
+    <item>EDB</item>
+    <item>Informatyka</item>
+    <item>Język polski</item>
+    <item>Język angielski</item>
+    <item>Język niemiecki</item>
+    <item>Język rosyjski</item>
+    <item>Historia</item>
+    <item>Wos</item>
+    <item>WF</item>
+    <item>WDŻ</item>
+        <item>Socjologia</item>
+        <item>Inżynieria Ekologiczna</item>
+        <item>Android</item>
+        <item>IOS</item>
+    </string-array>
+</resources>
